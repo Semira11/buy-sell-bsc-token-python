@@ -11,7 +11,7 @@ High-Speed Execution: leveraging BSC's APIs and Pancakeswap's smart contracts to
 Customization and Flexibility: will provide customizable options to suit individual trader preferences. Users will be able to configure various settings, such as slippage tolerance, gas price, and transaction confirmation thresholds, to align with their trading strategies.
 
 Video Screenshot
-https://youtu.be/WtPYQfo4ElM
+[https://youtu.be/WtPYQfo4ElM](https://www.youtube.com/watch?v=QYjJ8ZiSPwg)
  
 
 Note: I have updated to the new version, Buy Sell combination, just need to setting the config.json file and run launchbot.bat
